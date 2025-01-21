@@ -28,7 +28,7 @@ jobs:
 
       - name: build
         env:
-          BASE_PATH: '/trydeploy'
+          BASE_PATH: '/teyycalculator'
         run: |
           npm run build
 
